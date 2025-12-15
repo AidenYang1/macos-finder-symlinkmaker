@@ -1,0 +1,30 @@
+# --- macOS 核心垃圾文件 ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.TemporaryItems
+
+# --- 文件夹自定义图标/属性 ---
+# Icon 文件通常包含特殊的换行符，写法比较特殊
+Icon?
+.VolumeIcon.icns
+
+# --- 扩展属性和资源分叉 ---
+.AppleDouble
+.LSOverride
+
+# --- 网络共享生成的临时文件 ---
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# --- (可选) 如果你使用 Python 脚本 ---
+__pycache__/
+*.pyc
+
+#忽略文件夹
+打包文件/
