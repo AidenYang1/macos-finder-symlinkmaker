@@ -28,3 +28,5 @@ __pycache__/
 
 #忽略文件夹
 打包文件/
+# 忽略 VS Code或其他工具生成的代码洞察缓存
+.out-of-code-insights/
