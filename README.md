@@ -29,7 +29,7 @@ This workflow solves this pain point by adding a native **"Create Symlink To..."
 ### 📦 Installation
 
 #### Method 1: Installer (Recommended)
-1.  Go to the [Releases](https://github.com/yourusername/macos-finder-symlink/releases) page.
+1.  Go to the [Releases](https://github.com/AidenYang1/macos-finder-symlinkmaker/releases) page.
 2.  Download the `.dmg` file.
 3.  Open the disk image and double-click **`install.command`**.
 4.  Done!
@@ -68,7 +68,7 @@ macOS 访达自带的“制作替身 (Make Alias)”生成的是苹果专有的�
 ### 📦 安装方法
 
 #### 方法一：安装包（推荐）
-1.  访问 [Releases](https://github.com/yourusername/macos-finder-symlink/releases) 页面。
+1.  访问 [Releases](https://github.com/AidenYang1/macos-finder-symlinkmaker/releases) 页面。
 2.  下载最新版本的 `.dmg` 文件。
 3.  打开镜像文件，双击运行 **`install.command`**。
 4.  安装完成！
